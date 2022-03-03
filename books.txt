@@ -1,0 +1,22 @@
+14A9A07303,Learning Python 5th Edition,Mark Lutz,F
+655854X96A,Refactoring,Kent Beck,F
+K54A5X8002,Programming Pearls,Jon Bentley,F
+350415X5R6,Coders At Work,Peter Seibel,F
+98D542SA48,Thinking In Java,Bruce Eckel,F
+98D53A7A48,Thinking In Python,Bruce Eckel,F
+1A85D946A5,Deep Learning with Python,Francois Chollet,F
+7B51M5DX83,Effective Modern C++,Scott Meyers,F
+L3825S978C,Dune,Frank Herbert,F
+78XCAS9X00,The Martian,Frank Herbert,F
+M07AF78TG5,1984,George Orwell,F
+J7HX56340A,Ender's Game,Orson Scott Card,F
+S8DJX8168Z,A Star Wars Story,Mur Lafferty,F
+X8MAS739XA,Drakula,Bram Stoker,F
+K6F6A8VFA6,The Shining,Stephen King,F
+8VC9A35X83,House Of Leaves,Mark Z. Danielewski,F
+FG4A9AX52V,Bird Box,Josh Malerman,F
+XA5W74Q684,The Hunger,Alma Katsu,F
+DS5Q8S2RR4,White Is for Witching,Helen Oyeyemi,F
+86A87DASX9,AI in Life,Huseyin Akbas,F
+98D53A7A4A,Test Book,Test Author,F
+6XGHSYA2KK,Calculus I,Robert Adams,F
